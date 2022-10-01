@@ -1,0 +1,11 @@
+coverage
+
+tmp
+
+#VScode config file
+.vscode/
+#Ignore skrytye ffaile
+.*
+
+# Ne ignoryty .gitignor
+!.gitignore
